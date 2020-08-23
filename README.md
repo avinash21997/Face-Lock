@@ -78,17 +78,8 @@ To learn more about these Resources you can Refer to some of these articles writ
 https://medium.com/@unknown.underme
 
 
-### Made with ❤️ by Shantam Sultania
-#### About me
+### Made with ❤️ by Avinash
 
-I am an Andriod developer, Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
-I have a keen interest in Image processing and Andriod development.
-I am Currently Campus Representative at Google developers Group Chandigarh, Facebook Developer circle Chandigarh, and Club Lead at CSE Department Chandigarh University, Punjab.
-
-You can find me at:-
-[Linkedin](https://www.linkedin.com/in/shantam-sultania-737084175/) or [Github](https://github.com/shantamsultania) .
-
-Happy coding ❤️ .
 
 
 
